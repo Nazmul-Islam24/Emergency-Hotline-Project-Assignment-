@@ -20,16 +20,20 @@ The main idea of the project is to make the emergency numbers easy to find and u
 
 **Copy number:** The Copy button copies the selected hotline number to the clipboard and increases the copy counter.
 
-**Call history:** After making a call, the service name, number and calling time are added to the history section. There is also a Clear button to remove the history.
+**Call history:** After making a call, the service name, number, and calling time are added to the history section. There is also a Clear button to remove the history.
 
-**Responsive design:** The website works on mobile, tablet and desktop screens.
+**Responsive design:** The website works on mobile, tablet, and desktop screens.
 
 ## Technologies Used
 
 **HTML** ----> Used to create the basic structure of the website.
+
 **Tailwind CSS** -----> Used for styling and responsive design.
+
 **DaisyUI** --------> Used for some UI components and styles.
-**JavaScript** -----> Used for DOM manipulation, click events, counters, clipboard copying and call history.
+
+**JavaScript** -----> Used for DOM manipulation, click events, counters, clipboard copying, and call history.
+
 **Font Awesome** ------> Used for icons.
 
 ---
